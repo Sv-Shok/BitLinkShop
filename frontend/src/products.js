@@ -8,7 +8,7 @@ const products = [
         category: "Electronics",
         price: 18600,
         countInStock: 3,
-        rating: 4.5,
+        rating: 1,
         numReviews:4
     },
     {
@@ -38,7 +38,7 @@ const products = [
         category: "Electronics",
         price: 23000,
         countInStock: 3,
-        rating: 4.5,
+        rating: 1.5,
         numReviews:4
     },
     {
@@ -59,7 +59,7 @@ const products = [
         category: "Electronics",
         price: 23000,
         countInStock: 3,
-        rating: 4.5,
+        rating: 2.5,
         numReviews:4
     },
     {
@@ -85,7 +85,7 @@ const products = [
         category: "Electronics",
         price: 7899,
         countInStock: 3,
-        rating: 4.5,
+        rating: 4,
         numReviews:4
     },
     {
@@ -103,13 +103,13 @@ const products = [
         category: "Electronics",
         price: 15999,
         countInStock: 3,
-        rating: 4.5,
+        rating: 3,
         numReviews:4
     },
     {
         _id: '6',
         name: "Моноколесо Segway Ninebot A1 Белый",
-        image: "/images/product-1.jpg",
+        image: "/images/product-6.jpg",
         description: `Футуристический дизайн Моноколесо Segway Ninebot A1 имеет яркий и запоминающийся внешний вид. 
         Насыщенная синяя подсветка не только стильно смотрится, но и делает ваше движение в ночное время более безопасным. 
         Чтобы избежать соскальзывания ног во время езды откидные подножки предусмотрительно прорезинены, а для удобства 
@@ -122,7 +122,7 @@ const products = [
         category: "Electronics",
         price: 12999,
         countInStock: 3,
-        rating: 4.5,
+        rating: 5,
         numReviews:4
     },
 
