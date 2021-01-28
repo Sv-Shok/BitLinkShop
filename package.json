@@ -1,0 +1,22 @@
+{
+  "name": "bitlinkshop",
+  "version": "1.0.0",
+  "description": "app shopping cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sv-Shok/BitLinkShop.git"
+  },
+  "author": "Roman Yasinskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sv-Shok/BitLinkShop/issues"
+  },
+  "homepage": "https://github.com/Sv-Shok/BitLinkShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
